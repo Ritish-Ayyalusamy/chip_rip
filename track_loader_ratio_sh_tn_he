@@ -13,7 +13,7 @@ visibility full
 color 0,128,128
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2022-22-85/ncc/h9_hESC_m6A_S22_R1_001_trimmed.revcomp.hisat2.uniq.sorted.bs10.bw
+bigDataUrl https://export.uppmax.uu.se/nb_project/webexport/bigwig/ratio_sh_tn_he/bigwigcomp/hesc_k27ac.bs10.log2ratio.bw
 
 track hESC_input
 shortLabel hESC_input
@@ -22,4 +22,5 @@ visibility full
 color 0,128,128
 type bigWig
 maxWindowToDraw 200000
-bigDataUrl https://export.uppmax.uu.se/snic2022-22-85/ncc/h9_hESC_Input_1_S19_R1_001_trimmed.revcomp.hisat2.uniq.sorted.bs10.bw
+bigDataUrl https://export.uppmax.uu.se/nb_project/webexport/bigwig/ratio_sh_tn_he/bigwigcomp/hesc_mettl3.bs10.log2ratio.bw
+
