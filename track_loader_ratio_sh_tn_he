@@ -6,21 +6,110 @@ email ritish.ayyalusamy@gu.se
 
 genome hg38
 
-track hESC_m6A
-shortLabel hESC_m6A
-longLabel hESC_m6A
+track hESC_k27
+shortLabel hESC_k27
+longLabel hESC_k27
 visibility full
 color 0,128,128
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/nb_project/webexport/bigwig/ratio_sh_tn_he/bigwigcomp/hesc_k27ac.bs10.log2ratio.bw
 
-track hESC_input
-shortLabel hESC_input
-longLabel hESC_input
+track hESC_mettl3
+shortLabel hESC_mettl3
+longLabel hESC_mettl3
 visibility full
 color 0,128,128
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/nb_project/webexport/bigwig/ratio_sh_tn_he/bigwigcomp/hesc_mettl3.bs10.log2ratio.bw
 
+track hESC_mycn
+shortLabel hESC_mycn
+longLabel hESC_mycn
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/nb_project/webexport/bigwig/ratio_sh_tn_he/hesc_mycn.bs10.log2ratio.bw
+
+track shep_dox_dmso_mycn
+shortLabel shep_dox_dmso_mycn
+longLabel shep_dox_dmso_mycn
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/nb_project/webexport/bigwig/ratio_sh_tn_he/shep_dox_dmso_mycn.bs10.log2ratio.bw
+
+track shep_dox_stm_mycn
+shortLabel shep_dox_dtm_mycn
+longLabel shep_dox_stm_mycn
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/nb_project/webexport/bigwig/ratio_sh_tn_he/shep_dox_stm_mycn.bs10.log2ratio.bw
+
+track shep_minus_dox_mettl3
+shortLabel shep_minus_dox_mettl3
+longLabel shep_minus_dox_mettl3
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/nb_project/webexport/bigwig/ratio_sh_tn_he/shep_minus_dox_mettl3.bs10.log2ratio.bw
+
+track shep_minus_dox_mycn
+shortLabel shep_minus_dox_mycn
+longLabel shep_minus_dox_mycn
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/nb_project/webexport/bigwig/ratio_sh_tn_he/shep_minus_dox_mycn.bs10.log2ratio.bw
+
+track shep_plus_dox_mettl3
+shortLabel shep_plus_dox_mettl3
+longLabel shep_plus_dox_mettl3
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/nb_project/webexport/bigwig/ratio_sh_tn_he/shep_plus_dox_mettl3.bs10.log2ratio.bw
+
+track shep_plus_dox_mycn
+shortLabel shep_plus_dox_mycn
+longLabel shep_plus_dox_mycn
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/nb_project/webexport/bigwig/ratio_sh_tn_he/shep_plus_dox_mycn.bs10.log2ratio.bw.bs10.log2ratio.bw
+
+track tncc_k27ac
+shortLabel tncc_k27ac
+longLabel tncc_k27ac
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/nb_project/webexport/bigwig/ratio_sh_tn_he/tncc_k27ac.bs10.log2ratio.bw
+
+track tncc_mettl3
+shortLabel tncc_mettl3
+longLabel tncc_mettl3
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/nb_project/webexport/bigwig/ratio_sh_tn_he/tncc_mettl3.bs10.log2ratio.bw
+
+track tncc_mycn
+shortLabel tncc_mycn
+longLabel tncc_mycn
+visibility full
+color 0,128,128
+type bigWig
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/nb_project/webexport/bigwig/ratio_sh_tn_he/tncc_mycn.bs10.log2ratio.bw
