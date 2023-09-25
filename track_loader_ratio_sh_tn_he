@@ -1,6 +1,6 @@
 hub hg38
-shortLabel hg38_ncc
-longLabel hg38 ncc datasets
+shortLabel ratio
+longLabel ratio datasets
 useOneFile on
 email ritish.ayyalusamy@gu.se
 
