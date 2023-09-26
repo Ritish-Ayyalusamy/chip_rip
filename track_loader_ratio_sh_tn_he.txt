@@ -1,4 +1,4 @@
-hub bigwig_ratio
+hub hg38
 shortLabel ratio
 longLabel ratio datasets
 useOneFile on
