@@ -43,7 +43,7 @@ maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2022-22-85/ncc/bigwigcomp/shep_dox_dmso_mycn.bs10.log2ratio.bw
 
 track shep_dox_stm_mycn
-shortLabel shep_dox_dtm_mycn
+shortLabel shep_dox_stm_mycn
 longLabel shep_dox_stm_mycn
 visibility full
 color 0,128,128
@@ -113,3 +113,111 @@ color 0,128,128
 type bigWig
 maxWindowToDraw 200000
 bigDataUrl https://export.uppmax.uu.se/snic2022-22-85/ncc/bigwigcomp/tncc_mycn.bs10.log2ratio.bw
+
+track hESC_k27_bed
+shortLabel hESC_k27_bed
+longLabel hESC_k27_bed
+visibility full
+color 0,128,128
+type bed
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2022-22-85/ncc/bigwigcomp/hESC_h9_K27ac_ChIP_p1e-9_ext75_summits.bed
+
+track hESC_mettl3_bed
+shortLabel hESC_mettl3_bed
+longLabel hESC_mettl3_bed
+visibility full
+color 0,128,128
+type bed
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2022-22-85/ncc/bigwigcomp/hESC_h9_METTL3_ChIP_p1e-5_ext75_summits.bed
+
+track hESC_mycn_bed
+shortLabel hESC_mycn_bed
+longLabel hESC_mycn_bed
+visibility full
+color 0,128,128
+type bed
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2022-22-85/ncc/bigwigcomp/hESC_h9_MYCN_ChIP_p1e-9_ext75_summits.bed
+
+track shep_dox_dmso_mycn_bed
+shortLabel shep_dox_dmso_mycn_bed
+longLabel shep_dox_dmso_mycn_bed
+visibility full
+color 0,128,128
+type bed
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2022-22-85/ncc/bigwigcomp/SHEP_DOX_DMSO_MYCN_ChIP_p1e-9_ext75_summits.bed
+
+track shep_dox_stm_mycn_bed
+shortLabel shep_dox_stm_mycn_bed
+longLabel shep_dox_stm_mycn_bed
+visibility full
+color 0,128,128
+type bed
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2022-22-85/ncc/bigwigcomp/SHEP_DOX_STM_MYCN_ChIP_p1e-9_ext75_summits.bed
+
+track shep_minus_dox_mettl3_bed
+shortLabel shep_minus_dox_mettl3_bed
+longLabel shep_minus_dox_mettl3_bed
+visibility full
+color 0,128,128
+type bed
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2022-22-85/ncc/bigwigcomp/SHEP_minusDox_METTL3_ChIP_p1e-5_ext75_summits.bed
+
+track shep_minus_dox_mycn_bed
+shortLabel shep_minus_dox_mycn_bed
+longLabel shep_minus_dox_mycn_bed
+visibility full
+color 0,128,128
+type bed
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2022-22-85/ncc/bigwigcomp/SHEP_minusDox_Mycn_ChIP_p1e-9_ext75_summits.bed
+
+track shep_plus_dox_mettl3_bed
+shortLabel shep_plus_dox_mettl3_bed
+longLabel shep_plus_dox_mettl3_bed
+visibility full
+color 0,128,128
+type bed
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2022-22-85/ncc/bigwigcomp/SHEP_plusDox_METTL3_ChIP_p1e-5_ext75_summits.bed
+
+track shep_plus_dox_mycn_bed
+shortLabel shep_plus_dox_mycn_bed
+longLabel shep_plus_dox_mycn_bed
+visibility full
+color 0,128,128
+type bed
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2022-22-85/ncc/bigwigcomp/SHEP_plusDox_Mycn_ChIP_p1e-9_ext75_summits.bed
+
+track tncc_k27ac_bed
+shortLabel tncc_k27ac_bed
+longLabel tncc_k27ac_bed
+visibility full
+color 0,128,128
+type bed
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2022-22-85/ncc/bigwigcomp/tNCC_h9_K27ac_ChIP_p1e-9_ext75_summits.bed
+
+track tncc_mettl3_bed
+shortLabel tncc_mettl3_bed
+longLabel tncc_mettl3_bed
+visibility full
+color 0,128,128
+type bed
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2022-22-85/ncc/bigwigcomp/tNCC_D8_METTL3_ChIP_p1e-5_ext75_summits.bed
+
+track tncc_mycn_bed
+shortLabel tncc_mycn_bed
+longLabel tncc_mycn_bed
+visibility full
+color 0,128,128
+type bed
+maxWindowToDraw 200000
+bigDataUrl https://export.uppmax.uu.se/snic2022-22-85/ncc/bigwigcomp/tNCC_D8_MYCN_ChIP_p1e-9_ext75_summits.bed
